@@ -18,7 +18,7 @@ Explore the official websites and institute lists of various education boards in
    - [Website](https://www.jessoreboard.gov.bd/)
    - [Institute List](https://www.jessoreboard.gov.bd/index.php/site/institute)
 
-4. **Madrasah Education Board (EBMEB)** 🏫
+4. **Madrasah Education Board** 🏫
    - [Website](https://ebmeb.gov.bd)
    - [Institute List](https://find.ebmeb.gov.bd/9990/institute-list.html)
 
